@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/creative%20portfolio-icampsmith.com-yellow?style=for-the-badge"/>
   </a>
   
-</br>
+<br><br>
 
 <p>
 I'm a data analyst/engineer/scientist, photographer, filmmaker and comedian who is passionate about creative business solutions, open data and telling fresh stories from new perspectives. Some technologies I enjoy working with include Python, Tableau and the Adobe Creative Suite. I've worked on comedy special recommenders, ETL fraud detection applications and SQL database engineering. </p>
