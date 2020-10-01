@@ -28,7 +28,7 @@ I'm a data analyst/engineer/scientist, photographer, filmmaker and comedian who 
 
 * SQL Database Engineering for the independent movie marketing start-up, Fuel & Ox.
 
-* Kaggle's [Housing Price Predictor Challenge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). I enjoy Machine Learning algorithms that provide concrete business applications and offer a high degree of interpetibility.
+* UCI's [Facebook Comment Volume Dataset](https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset#). I enjoy Machine Learning algorithms that provide concrete business applications and offer a high degree of interpetibility and lean more towards raw analysis.
 
 ### 📚 Currently Learning More About:
 
