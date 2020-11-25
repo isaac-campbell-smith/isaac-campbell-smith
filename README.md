@@ -28,7 +28,7 @@ I'm a data analyst/engineer/scientist, photographer, filmmaker and comedian who 
 
 * SQL Database Engineering for the independent movie marketing start-up, Fuel & Ox.
 
-* UCI's [Facebook Comment Volume Dataset](https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset#). I enjoy Machine Learning algorithms that provide concrete business applications and offer a high degree of interpetibility and lean more towards raw analysis.
+* Engineering a database utilizing the US Patent Office's API built on Apache Sol for scientific research start-up, AAK Tele-Science.
 
 ### 📚 Currently Learning More About:
 
