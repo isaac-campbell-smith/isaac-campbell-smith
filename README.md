@@ -28,7 +28,7 @@ I'm a data analyst/engineer/scientist, photographer, filmmaker and comedian who 
 
 * SQL Database Engineering for the independent movie marketing start-up, Fuel & Ox.
 
-* Engineering a database utilizing the US Patent Office's API built on Apache Sol for scientific research start-up, AAK Tele-Science.
+* Engineering a US Patent Office API/SQL db built on Apache Lucene & Solr for scientific research start-up, AAK Tele-Science.
 
 ### 📚 Currently Learning More About:
 
