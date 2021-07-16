@@ -18,17 +18,11 @@
 <br>
 
 <p>
-I'm a data analyst/engineer/scientist, photographer, filmmaker and comedian who is passionate about creative business solutions, open data and telling fresh stories from new perspectives. Some technologies I enjoy working with include Python, Tableau and the Adobe Creative Suite. I've worked on comedy special recommenders, ETL fraud detection applications and SQL database engineering. </p>
+I'm a data and machine learning engineer, photographer, filmmaker and comedian. I'm passionate about data, creative business problem-solving, and actionable story telling. Some technologies I enjoy working with include Python, dbt and the Snowflake. I've worked on comedy special recommenders, ETL fraud detection applications and lots of SQL data modelling. </p>
 
 ### 💻 Currently Working On:
 
-* ETL competitive Pokemon battling data analysis using a SQL database I built using raw data from [Pokemon Showdown](https://play.pokemonshowdown.com/). 
-
-* Listener Data Analysis for Leafly's flagship news podcast, 'The Roll-Up'.
-
-* SQL Database Engineering for the independent movie marketing start-up, Fuel & Ox.
-
-* Engineering a US Patent Office API/SQL db built on Apache Lucene & Solr for scientific research start-up, AAK Tele-Science.
+* I am happily full-time at  [iFIT](https://www.ifit.com). It's a great team and product. At the moment, I much of my work focuses on engineering ELT pipelines (Mongo to Looker) for Business Analysts, and supporting CRM/Marketing communications using Airflow and Segment. 
 
 ### 📚 Currently Learning More About:
 
