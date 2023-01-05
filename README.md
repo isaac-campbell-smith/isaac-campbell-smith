@@ -22,7 +22,7 @@ I'm a data and machine learning engineer, photographer, filmmaker and comedian. 
 
 ### 💻 Currently Working On:
 
-* I am happily full-time at  [iFIT](https://www.ifit.com). It's a great team and product. At the moment, I'm most heavily involved with engineering ELT pipelines  for Business Analysts (Mongo to Looker), and supporting CRM/Marketing communications using Airflow and Segment. 
+* I am currently open to work! At the moment I'm generally targeting analytics engineering roles but would love to take on more data platform work.
 
 ### 📚 Currently Learning More About:
 
